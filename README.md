@@ -47,13 +47,13 @@ EventQuest provides users with a platform to discover and share information abou
 ```
 
 ## Features
-* User Authentication: Authenticate users based on their email and password.
-* Password Security: Hide password input for security.
-* Profile Management: Users can manage their profiles by uploading images and updating personal information.
-* Favorites: Save your favorite festivals for quick access.
-* Text Customization: Customize text properties including font style, size, weight, and color.
-* Text Positioning: Adjust the position of text within the post image.
-* Share Functionality: Share the edited festival post with others.
+* **User Authentication:** Authenticate users based on their email and password.
+* **Password Security:** Hide password input for security.
+* **Profile Management:** Users can manage their profiles by uploading images and updating personal information.
+* **Favorites:** Save your favorite festivals for quick access.
+* **Text Customization:** Customize text properties including font style, size, weight, and color.
+* **Text Positioning:** Adjust the position of text within the post image.
+* **Share Functionality:** Share the edited festival post with others.
 
 ## Dependencies
 
