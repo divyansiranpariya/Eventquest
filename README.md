@@ -12,18 +12,22 @@ EventQuest provides users with a platform to discover and share information abou
 ## Folder Structure
 
  * Here is the core folder structure which flutter provides.
+   ```
    flutter-app/ |- android |- build |- ios |- lib |- test
+   ```
 
 * Here is the folder structure we have been using in this project
- 
+
+ ```
  lib/ 
 |- Screens/ 
 |- utilities/ 
 |- main.dart
- 
+ ```
 
 ## Screens
 * This directory view all the screen of the application together in one place. A separate file is created for each type as shown in example below:
+ ```
  Screens/
 |- splace_screen.dart
 |- login.dart
@@ -31,15 +35,16 @@ EventQuest provides users with a platform to discover and share information abou
 |- festivald_detailpage.dart
 |- festedit.dart
 |- Favourite_page.dart
+```
 
 ## utils
-
+```
 |- all_data.dart
 |- color.dart
 |- global.dart
 |- quote.dart
 |- textstayling.dart
-
+```
 
 ## Features
 * User Authentication: Authenticate users based on their email and password.
