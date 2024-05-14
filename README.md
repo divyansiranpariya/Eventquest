@@ -67,14 +67,12 @@ EventQuest provides users with a platform to discover and share information abou
 ## Screenshorts
 
 ![evennt1](https://github.com/divyansiranpariya/Eventquest/assets/154776848/31e4e888-2fe1-46f9-b210-75fa1af48552)
-![event2 (1)](https://github.com/divyansiranpariya/Eventquest/assets/154776848/b33c2751-36b![event3](https://github.com/divyansiranpariya/Eventquest/assets/154776848/c5b057a9-122f-4a0e-b5cd-ed494970d731)
-0-4aa2-b1d![event5](https://github.com/divyansiranpariya/Eventquest/assets/154776848/33a3c7dc-77d6-4ef9-93a0-14da4eae8710)
-2-0d4154855bdd)
-![Uploading event5.png…]()
-![event4](https://github.com/divyansiranpariya/Eventquest/assets/154776848/6c9b6cc4-0ddc-4fda-ae6e-dbc6ee9e0b73)
-![event6](https://github.com/divyansiranpariya/Eventquest/assets/154776848/d1c49c4b-5db2![event7](https://github.com/divyansiranpariya/Eventquest/assets/154776848/064140ab-2d23-451f-94b8-1be23ad77bc6)
--4b68-bf2b-80e863393bcc)
-![event8](https://github.com/divyansiranpariya/Eventquest/assets/154776848/b7537faa-cce4-473c-b2cb-58c8aeb890a3)
-
+![event2 (1)](https://github.com/divyansiranpariya/Eventquest/assets/154776848/f942bc08-5e0f-41a1-901a-17b7df767154)
+![event3](https://github.com/divyansiranpariya/Eventquest/assets/154776848/f34a9646-51d5-419c-8a0d-9ac59a104c1b)
+![event5](https://github.com/divyansiranpariya/Eventquest/assets/154776848/fd00049a-7118-4c15-9d6d-5ec441041743)
+![event4](https://github.com/divyansiranpariya/Eventquest/assets/154776848/336e8ca5-f6b4-4ade-b16a-4852a5c090c4)
+![event6](https://github.com/divyansiranpariya/Eventquest/assets/154776848/20644d4c-8e8f-4237-9915-2a5f48d8548f)
+![event7](https://github.com/divyansiranpariya/Eventquest/assets/154776848/abf2acd7-dfc5-4a5e-80dc-b974fad55800)
+![event8](https://github.com/divyansiranpariya/Eventquest/assets/154776848/974e5ea9-cc81-4e67-889a-ae98e7eb9c68)
 
 
